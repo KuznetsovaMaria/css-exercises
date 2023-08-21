@@ -1,0 +1,19 @@
+
+.odd-number-line {
+    background-color: rgb(245, 184, 184);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.bigger {
+    font-size: 24px;
+}
+
+#big-blue {
+    color: #1f59f8;
+    font-size: 36px;
+}
+
+#green-bg {
+    background-color: hsl(133, 72%, 76%);
+    font-weight: bold;
+}
